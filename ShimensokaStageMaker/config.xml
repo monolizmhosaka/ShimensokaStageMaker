@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<AppConfigData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <stageFolderPath>C:\usb\monolizm\prj\しめんそか\ステージデータ</stageFolderPath>
+  <layer1ImagePath>C:\usb\monolizm\prj\しめんそか\ステージデータ\ガラスブロックレイヤー.bmp</layer1ImagePath>
+  <layer2ImagePath>C:\usb\monolizm\prj\しめんそか\ステージデータ\アイテムレイヤー.bmp</layer2ImagePath>
+</AppConfigData>
